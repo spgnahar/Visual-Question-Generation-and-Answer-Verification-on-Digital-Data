@@ -22,3 +22,6 @@ This paper delineates the automation of question generation as an extension to e
 ## Results ##
 ![alt text](https://i.imgur.com/1kwfuIF.jpg)
 
+## Entire Chapter ##
+https://link.springer.com/chapter/10.1007/978-3-030-38445-6_8
+
